@@ -8,7 +8,7 @@
 #     namespace: argocd
 #   source:
 #     path: apps/
-#     repoURL: 'https://github.com/<repo>'
+#     repoURL: 'https://github.com/rhigonet/intro-argo-cd'
 #     targetRevision: HEAD
 #     directory: {}
 #   project: default
